@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.skinzy.twa",
+    "sha256_cert_fingerprints": [
+      "92:4E:89:D1:5D:0A:0A:0C:40:2E:5D:0A:8C:97:22:FC:77:BB:6C:E1:71:47:06:21:D1:88:9F:11:77:6A:9A:EA"
+    ]
+  }
+}]
